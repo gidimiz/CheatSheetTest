@@ -7,7 +7,6 @@
     },
     "filesToLoadArr":[
     {
-        //"name": "create web page",
         "path": "",
         "file": "test.md"
     }
